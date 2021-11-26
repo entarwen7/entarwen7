@@ -16,9 +16,9 @@ const Alexx = {
             css: ["materialize", "bootstrap"]
         },
         misc: ["Firebase"]
-    },
-    architecture: [ "Single page applications"],
-    };
+        architecture: [ "Single page applications"],
+     },    
+   };
 ```
 
 ⭐️ From [@entawen7](https://github.com/entarwen7)
