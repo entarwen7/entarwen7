@@ -15,7 +15,7 @@ const Alexx = {
             js: ["Angular"],
             css: ["materialize", "bootstrap"]
         },
-        misc: ["Firebase"]
+        misc: ["Firebase"],
         architecture: [ "Single page applications"],
      },    
    };
