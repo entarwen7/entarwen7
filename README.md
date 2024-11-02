@@ -6,19 +6,25 @@
 
 
 ```javascript
-const Alexx = {
-    pronouns: "she" | "Her",
-    code: ["Javascript", "Typescript"],
-    askMeAbout: ["web dev", "tech", "teacher", "makeupArtist"],
+ const Alexx = {
+    pronouns: "she" | "her",
+    code: ["JavaScript", "TypeScript", "Python"],
+    askMeAbout: ["web dev", "tech", "teaching", "makeup artistry"],
     technologies: {
-         frontEnd: {
-            js: ["Angular"],
-            css: ["materialize", "bootstrap"]
+        frontEnd: {
+            js: ["React", "Next.js", "Angular"],
+            css: ["Material UI (MUI)", "Tailwind", "Materialize", "Bootstrap"]
         },
-        misc: ["Firebase"],
-        architecture: [ "Single page applications"],
-     },    
-   };
+        backEnd: {
+            databases: ["BigQuery", "PostgreSQL"],
+            misc: ["Firebase"]
+        },
+        crm: ["Salesforce"],
+        messaging: ["WhatsApp Business API"],
+        architecture: ["Single Page Applications"]
+    },
+};
+
 ```
 
 ⭐️ From [@entawen7](https://github.com/entarwen7)
